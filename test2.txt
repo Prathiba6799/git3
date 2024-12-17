@@ -1,1 +1,2 @@
 something created by prathiba front end web developer
+for front end development we have to learn html,css,and java script
